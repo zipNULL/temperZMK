@@ -27,7 +27,7 @@
         slh_sem: slash_semicolon {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp fslh>, <&kp SEMI>;
+            bindings = <&kp FSLH>, <&kp SEMI>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
