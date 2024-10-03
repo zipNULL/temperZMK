@@ -12,7 +12,7 @@
 #define BLU 5
 
 &mt {
-    tapping-term-ms = <300>;
+    tapping-term-ms = <200>;
     flavor = "tap-preferred";
 };
 
